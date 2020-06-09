@@ -4,7 +4,7 @@ layout: recipe
 title:  "Pfannkuchen"
 imagecredit: https://www.flickr.com/photos/37279055@N00/401786380
 image: pancakes.jpg
-tags: Mitagessen, Süßes
+tags: Mittagessen, Süßes
 
 ingredients:
 - 2 Eier

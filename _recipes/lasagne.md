@@ -4,7 +4,7 @@ layout: recipe
 title:  "Lasagne"
 image: lasagne.jpg
 imagecredit: https://www.flickr.com/photos/22722986@N08/5392425495
-tags: Mitagessen, Hackfleisch
+tags: Mittagessen, Hackfleisch
 
 ingredients:
 - 200/300g geriebener Käse

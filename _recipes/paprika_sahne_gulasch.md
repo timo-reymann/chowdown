@@ -4,7 +4,7 @@ layout: recipe
 title:  "Paprika Sahne Gulasch"
 image: gulasch.jpeg
 imagecredit: https://zu-faul-zum-kochen.de/author/sven/
-tags: Mitagessen, Gulasch, Fleisch
+tags: Mittagessen, Gulasch, Fleisch
 
 ingredients:
 - 500g Schweinegulasch
