@@ -1,8 +1,8 @@
 # Site settings
 title: Chowdown (with recipes from Timo)
 email: no-reply@timo-reymann.de
-description: The plain text recipe database for hackers
-baseurl: "https://timo-reymann.github.io/recipes/"
+description: The plain text recipe database for hackers (with my recipes)
+baseurl: "https://timo-reymann.github.io/recipes"
 language: "de"
 lang_direction: "ltr"
 color: "#D65108"
