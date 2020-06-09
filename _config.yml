@@ -2,8 +2,8 @@
 title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
-language: "en"
+baseurl: ""
+language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
 twitter_username: clarklab
@@ -23,16 +23,6 @@ collections:
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 translation:
-  en:
-    components: "Components"
-    ingredients: "Ingredients"
-    directions: "Directions"
-    category: "Category"
-    nutritional_information: "Nutritional Information"
-    component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
-    search: "Search"
-    blog: "Blog"
-    subscribe: "Subscribe"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
