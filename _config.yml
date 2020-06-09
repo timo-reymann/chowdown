@@ -1,13 +1,13 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
+title: Chowdown (with recipes from Timo)
+email: no-reply@timo-reymann.de
 description: The plain text recipe database for hackers
 baseurl: "https://timo-reymann.github.io/chowdown/"
 language: "de"
 lang_direction: "ltr"
-color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+color: "#D65108"
+twitter_username: timo_reymann
+github_username:  timo-reymann
 
 # Build settings
 markdown: kramdown
