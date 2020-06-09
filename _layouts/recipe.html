@@ -23,7 +23,10 @@ layout: default
   <header class="post-header center">
     <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
     {% for tag in page.tags %}
-     <a href="{{ site.baseurl }}/search.html?q={{ tag }}"> {{ tag }}</a>
+      <a href='{{ site.baseurl }}/search.html?q={{ tag | replace: ",", ""  }}'> {{ tag | replace: ",", "" }}</a>
+      {% if forloop.last == false %}
+      |
+      {% endif %}
     {% endfor %}
   </header>
 
