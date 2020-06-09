@@ -31,5 +31,6 @@ translation:
     nutritional_information: "Nährwertangaben"
     component_based: 'Dieses Rezept besteht aus <strong class="blue">mehreren Komponenten</strong>.'
     search: "Suche"
+    searchHelp: "Suche nach Tags, oder Zutaten ..."
     blog: "Blog"
     subscribe: "Abonnieren"

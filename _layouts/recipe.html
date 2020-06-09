@@ -20,8 +20,11 @@ layout: default
 <article class="post-content px2">
 
 <!-- call up the main recipe title and content -->
-  <header class="post-header">
+  <header class="post-header center">
     <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
+    {% for tag in page.tags %}
+     <a href="{{ site.baseurl }}/search.html?q={{ tag }}"> {{ tag }}</a>
+    {% endfor %}
   </header>
 
   <div class="px2 mt3 clearfix">
@@ -44,7 +47,7 @@ layout: default
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h4 class="orange mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
@@ -52,11 +55,10 @@ layout: default
         {% endfor %}
       </ul>
       {% endif %}
-
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h4 class="orange mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
         <li>{{ direction | markdownify }}</li>
@@ -94,14 +96,14 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h4 class="orange regular xs-center">{{ site.translation[site.language].ingredients }}</h4>
         <ul class="ingredients" itemprop="ingredients">
         {% for item in recipe.ingredients %}
         <li itemprop="ingredient">{{ item | markdownify }}</li>
         {% endfor %}
       </ul>
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h4 class="orange regular xs-center">{{ site.translation[site.language].directions }}</h4>
         <ul itemprop="instructions">
         {% for item in recipe.directions %}
         <li>{{ item | markdownify }}</li>
