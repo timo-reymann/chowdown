@@ -4,7 +4,7 @@ layout: recipe
 title:  "Kartoffel Lebkuchen"
 image: kartoffel-lebkuchen.jpg
 imagecredit: https://www.flickr.com/photos/92734975@N00/6491094661
-tags: Weihnachtsgebäck,Lebkuchen
+tags: Weihnachtsgebäck, Lebkuchen
 
 ingredients:
 - 4 Eier

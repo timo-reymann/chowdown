@@ -4,7 +4,7 @@ layout: recipe
 title:  "Amerikaner"
 image: amerikaner.jpg
 imagecredit: https://www.flickr.com/photos/38048973@N07/6861929162
-tags: Kuchen,Gebäck
+tags: Kuchen, Gebäck
 
 ingredients:
 - 125g Butter
