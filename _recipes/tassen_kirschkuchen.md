@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Tassen Kirschkuchen"
 image: tassen-kirschkuchen.jpg
-tags: Kuchen, Blechkuchen
+tags: Backen, Kuchen, Blechkuchen
 
 ingredients:
 - 1 Glas Sauerkirschen
