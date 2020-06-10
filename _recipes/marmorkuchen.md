@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Marmorkochen"
+title:  "Marmorkuchen"
 image: marmorkuchen.jpg
 imagecredit: https://www.flickr.com/photos/18823738@N00/6591253157
 tags: Backen, Kuchen
