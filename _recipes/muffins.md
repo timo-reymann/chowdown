@@ -4,7 +4,7 @@ layout: recipe
 title:  "Muffins"
 image: muffins.jpg
 imagecredit: https://www.flickr.com/photos/45745303@N00/15929773101
-tags: Backen, Gebäck
+tags: Backen, Gebäck, Muffins
 
 ingredients:
 - 150g Mehl
