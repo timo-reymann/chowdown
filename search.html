@@ -31,11 +31,12 @@ layout: default
         const searchInput = $('#search-input');
 
         if(!!query) {
+            // initial search on page load -> timeout because there is no hook
             setTimeout(() => {
                 searchInput.val(query);
                 window.jekyll_search.search(query);
                 animateSearch();
-            }, 50)
+            }, 100)
         }
 
         searchInput.on('input', animateSearch);
