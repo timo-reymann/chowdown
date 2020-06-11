@@ -4,7 +4,11 @@
 
     <div class="clearfix">
       <div class="sm-col sm-col-6">
-        <p class="left-align mb2"><a href="{{ "/search" | prepend: site.baseurl}}">{{ site.translation[site.language].search }}</a>  | {{ site.translation[site.language].subscribe }} <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <p class="left-align mb2">
+          <a href="{{ "/"  | prepend: site.baseurl }}">Home</a> |
+          <a href="{{ "/search" | prepend: site.baseurl}}">{{ site.translation[site.language].search }}</a>  | 
+          {{ site.translation[site.language].subscribe }} <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> 
+        </p>
       </div>
       <div class="sm-col sm-col-6">
         <p class="right-align mb2">Made with
