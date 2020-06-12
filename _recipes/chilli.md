@@ -14,7 +14,7 @@ ingredients:
 - Tomatenmark
 - Prise Zucker
 - Prise Salz
-- 1 TL Chillipulver
+- 2 - 3 TL Chillipulver
 - Pfeffer
 - 150ml Wasser
 - Öl zum anbraten
