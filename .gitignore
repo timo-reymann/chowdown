@@ -3,3 +3,4 @@
 /.jekyll-cache/
 stale_outputs_checked
 .idea/
+.sass-cache/
