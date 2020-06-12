@@ -9,7 +9,7 @@ ingredients:
 - 1 kg Mehl
 - 500ml warmes Wasser
 - 1 TL Salz
-- 2 EL Olivenöl
+- 2 EL Öl
 - 2 Päckchen Trockenhefe
 
 directions:

@@ -17,7 +17,7 @@ ingredients:
 - 1 TL Chillipulver
 - Pfeffer
 - 150ml Wasser
-- Olivenöl zum anbraten
+- Öl zum anbraten
 
 directions:
 - Öl in die warme Pfanne geben

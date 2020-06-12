@@ -1,0 +1,39 @@
+.no-line-height {
+  line-height: 0;
+}
+
+.bg-orange {
+  background: #D65108;
+}
+
+a .image {
+  transition: .2s ease all;
+  opacity: .8;
+}
+
+a:hover .image {
+  opacity: 0.5;
+}
+
+.ratio {
+  padding-top: 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.border-1 {
+  border-width: 1px;
+}
+
+.border-1:active {
+  border-width: 1px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+a,
+.orange {
+  color: #D65108;
+}

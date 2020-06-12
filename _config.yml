@@ -34,3 +34,6 @@ translation:
     searchHelp: "Suche nach Tags, oder Zutaten ..."
     blog: "Blog"
     subscribe: "Abonnieren"
+
+sass:
+  sass_dir: css

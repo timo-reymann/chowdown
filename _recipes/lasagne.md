@@ -16,12 +16,12 @@ ingredients:
 - 1/2 Liter Milch
 - 30g Butter
 - 40 g Mehl
-- Olivenöl
+- Öl
 - Salz
 - Pfeffer
 
 directions:
-- Olivehöl in einer Pfanne erhitzen
+- Öl in einer Pfanne erhitzen
 - Zwiebeln anbraten
 - Tomatenmark mit anbraten
 - Hackfleisch dazugeben und mit anbraten
@@ -35,7 +35,7 @@ directions:
 - 1 Stunde köcheln lassen damit der Mehlgeschmack verschwindet
 - Mit Salz und Pfeffer abschmecken
 - Bechamel-Sauce vom Herd nehmen
-- Auflaufform für die Lasagne mit Butter oder Olivenöl einfetten
+- Auflaufform für die Lasagne mit Butter oder Öl einfetten
 - Hackfleischsosse ganz dünn am Boden verteilen
 - Lasagneplatte, Hackfleischsoße, Bechamel-Soße und etwas Käse schichtweise verteilen
 - Aufüllen bis zum oberen Rand der Form

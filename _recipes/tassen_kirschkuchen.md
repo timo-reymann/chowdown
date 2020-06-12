@@ -11,7 +11,7 @@ ingredients:
 - 1 Tasse Zucker
 - 1 Päckchen Backpulver
 - 1 Päckchen Vanillezucker
-- 1 Tasse Olivenöl
+- 1 Tasse Öl
 - 1 Tasse Apfelsaft
 - Fett für das Blech
 - Puderzucken zum Bestäuben

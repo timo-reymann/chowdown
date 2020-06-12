@@ -17,7 +17,7 @@ ingredients:
 - Salz
 - 3 EL Tomatenmark
 - 2 (rote) Zwiebeln
-- Olivenöl
+- Öl
 - 2 TL Mehl
 
 directions:
