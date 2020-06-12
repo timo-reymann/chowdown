@@ -193,3 +193,18 @@ a,
 .orange {
   color: #D65108;
 }
+
+.image-credits {
+  font-size: 50%;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+.image-credits svg {
+  vertical-align: middle;
+}
+
+.image-credits a {
+  text-decoration: none;
+}
