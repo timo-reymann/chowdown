@@ -7,20 +7,21 @@ image: pancakes.jpg
 tags: Mittagessen, Süßes
 
 ingredients:
-- 2 Eier
-- 200g Mehl
-- 200ml Milch
+- 5 Eier
+- 250g Mehl
+- 600ml Milch
 - Prise Salz
-- 1 TL Zucker
-- 60ml Mineralwasser
+- 3 EL Öl
 - Öl zum Ausbraten
 
 
 directions:
-- Eier, Milch, Zucker, Salz, Mehl und Mineralwasser glatt rühren
-- Bei Bedarf noch Mehl oder Wasser zum "Fine-Tuning" dazugeben
+- Zuerst das Ei aufschlagen
+- Das Öl dazugeben und unterrühren
+- Milch, Mehl und Salz langsam dazugeben und glatt rühren
+- Bei Bedarf noch Mehl oder Wasser/Milch zum "Fine-Tuning" dazugeben
 - 1 - 2 Minuten pro Pfannkuchen goldgelb ausbraten
 
 ---
 
-Pfannkuchen-Rezept für 3 Personen (oder mich).
+Pfannkuchen-Rezept für ca. 10 Pfannkuchen
