@@ -33,7 +33,7 @@ self.addEventListener("fetch", function (event) {
 
         return response;
       })
-      .catch(function (error) {        
+      .catch(function (error) {
         console.log("Network request Failed. Serving content from cache: " + error);
         return fromCache(event.request);
       })
@@ -57,6 +57,10 @@ function fromCache(request) {
 
 function updateCache(request, response) {
   return caches.open(CACHE).then(function (cache) {
-    return cache.put(request, response);
+    try {
+      return cache.put(request, response);
+    } catch (e) {
+      return null;
+    }
   });
 }

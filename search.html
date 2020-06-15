@@ -18,27 +18,36 @@ layout: default
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{site.baseurl}}/search.json',
-        searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-orange" href="{url}"><div class="image ratio bg-cover" style="background-image:url({image});"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
-    })
-    
-    function animateSearch() {
-        let currentHeight = $('#search-container').outerHeight();
-        $('.search').addClass('used').css('height', currentHeight);
-    }
+        searchResultTemplate: `
+            <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align">
+                <a class="block relative bg-orange" href="{url}">
+                    <div class="image ratio bg-cover" style="background-image:url({image});">
+                    </div>
+                    <h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1>
+                </a>
+            </div>`
+    });
 
-    $(document).ready(function () {
+    document.addEventListener("DOMContentLoaded", function () {
         const query = new URLSearchParams(window.location.search).get("q");
-        const searchInput = $('#search-input');
+        const searchInput = document.querySelector('#search-input');
+        const searchContainer = document.querySelector("#search-container");
+        const searchWrapper = document.querySelector(".search");
 
-        if(!!query) {
+        const animateSearch = () => {
+            searchWrapper.classList.add("used")
+            searchWrapper.style.height = searchContainer.getBoundingClientRect().height + "px";
+        };
+
+        if (!!query) {
             // initial search on page load -> timeout because there is no hook
             setTimeout(() => {
-                searchInput.val(query);
+                searchInput.value = query;
                 window.jekyll_search.search(query);
                 animateSearch();
             }, 100)
         }
 
-        searchInput.on('input', animateSearch);
+        searchInput.addEventListener('input', animateSearch);
     });
 </script>
