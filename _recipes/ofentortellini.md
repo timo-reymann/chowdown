@@ -11,7 +11,7 @@ ingredients:
 - 1 kleine Zwiebel
 - 200g Gratinkäse
 - 150ml Milch
-- 200ml Saure Sahne
+- 200ml Sahne
 - Ei
 - Öl
 - Salz
@@ -22,7 +22,7 @@ directions:
 - Öl in einer Pfanne erhitzen
 - Zwiebeln andünsten
 - Schinken dazu geben
-- Milch, Saure Sahne, Ei, Salz und Pfeffer glatt rühren/mixen
+- Milch, Sahne, Ei, Salz und Pfeffer glatt rühren/mixen
 - Zwiebeln und Schinken mit der Soße ablöschen
 - Soße einköcheln lassen, bei Bedarf mit Mehl abbinden
 - ca. die Hälfte des Käse in die Soße einrühren
