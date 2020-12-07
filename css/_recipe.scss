@@ -23,3 +23,7 @@ ul li input {
 .recipe-point {
   pointer-events: none;
 }
+
+input.recipe-point {
+    transform: scale(1.5);
+}
