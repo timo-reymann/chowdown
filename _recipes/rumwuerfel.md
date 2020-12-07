@@ -5,7 +5,7 @@ title:  "Rumwürfel"
 image: rumwuerfel.jpg
 tags: Backen, Blechkuchen
 
-ingedrients:
+ingredients:
 - 250g Zucker
 - 200g Butter
 - 4 Eier
