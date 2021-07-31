@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Sour Cream"
 image: sour_cream.jpg
-tags: Mittagessen,Dips,Snacks
+tags: Mittagessen, Dips, Snacks
 
 ingredients:
 - 200g Magerquark
