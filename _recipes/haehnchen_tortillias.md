@@ -12,11 +12,16 @@ ingredients:
 - 1/2 Gurke
 - 1 Paprika
 - Öl zum Anbraten
-- Soße (vorzugsweise BBQ, Knoblauch)
+- Joghurt
+- Petersilie
+- Salz
+- Pfeffer
+- Knoblauch oder Knoblauchpulver
 - Prise Salz
 - Gewürze für das Hähnchenfleisch
 
 directions:
+- Joghurt mit Salz, Pfeffer, Persilie und Knoblauch abschmecken und ziehen lassen
 - Paprika waschen und in kleine Streifen schneiden
 - Salat waschen und Strunke ausschneiden
 - Gurke schälen und in feine Scheiben schneiden
