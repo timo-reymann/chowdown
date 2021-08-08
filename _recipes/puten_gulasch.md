@@ -35,7 +35,7 @@ directions:
 - Mit Wasser und Milch ablöschen und mit Kräutern abschmecken
 - Fleisch und Mais zugeben und nochmal 2 Minuten köcheln lassen
 - Mit Petersilie garniert servieren
---
+---
 
 Rezept für 4 Portionen, perfekt zum Vorkochen und Einfrieren.
 
