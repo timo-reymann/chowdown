@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Lachs mit Spinat-Gemüse"
 image: lachs-spinat-gemuese.jpg
-tags: Low Carb, Fisch, Mittagessen
+tags: Low-Carb, Fisch, Mittagessen
 
 ingredients:
 - 1/2 rote Zwiebel

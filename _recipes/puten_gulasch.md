@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Puten-Gulasch mit Mais und Paprika"
 image: puten-gulasch.jpg
-tags: Low Carb, Gulasch, Mittagessen
+tags: Low-Carb, Gulasch, Mittagessen
 
 ingredients:
 - 1 Zwiebel

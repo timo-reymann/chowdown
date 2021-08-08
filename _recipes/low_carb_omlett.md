@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Low Carb Omlett"
 image: low-carb-omlette.jpg
-tags: Low Carb, Omlette, Mittagessen
+tags: Low-Carb, Omlette, Mittagessen
 
 ingredients:
 - 2 EL Kräuterbutter

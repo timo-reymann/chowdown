@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Thunfisch-Salat"
 image: thunfisch-salat.jpg
-tags: Low Carb, Omlette, Mittagessen, Salat
+tags: Low-Carb, Omlette, Mittagessen, Salat
 
 ingredients:
 - Salz
