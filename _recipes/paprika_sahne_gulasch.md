@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Paprika Sahne Gulasch"
-image: gulasch.jpeg
+image: puten-gulasch.jpeg
 imagecredit: https://zu-faul-zum-kochen.de/author/sven/
 tags: Mittagessen, Gulasch, Fleisch
 
