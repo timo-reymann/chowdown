@@ -3,7 +3,7 @@
 layout: recipe
 title: Rinder Gulasch
 image: rinder-gulasch.jpeg
-tags: Mittagessen,Rind,Wein
+tags: Mittagessen, Rind, Wein
 
 ingredients:
 - 3 EL Butter

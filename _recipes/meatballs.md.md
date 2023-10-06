@@ -3,7 +3,7 @@
 layout: recipe
 title: Meatballs
 image: meatballs.jpeg
-tags: Hackfleisch,Rind
+tags: Hackfleisch, Rind
 
 ingredients:
 - 1kg Rinderhackfleisch
