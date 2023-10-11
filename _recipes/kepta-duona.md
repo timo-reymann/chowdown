@@ -11,7 +11,7 @@ ingredients:
 - Knoblauchpulver
 - Salz
 - 3 Knoblauchzehen
-- 10g Käse
+- 25g Parmesan
 - 40g Mayonnaise
 
 directions:
