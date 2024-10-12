@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Tofu-Pesto Pasta
-image:
+image: tofu-pesto.png
 tags: vegan,Tofu,Pasta
 
 ingredients:
