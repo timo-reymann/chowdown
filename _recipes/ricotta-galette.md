@@ -18,6 +18,7 @@ ingredients:
 - 250g Ricotta
 - 1 Eiweiß
 - 1 TL Wasser
+- 2 Zucchini
 
 directions:
 - Mehl für 30 Minuten in den Kühlschrank stellen
