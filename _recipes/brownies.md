@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Brownies mit Walnüssen"
 image: brownies.png

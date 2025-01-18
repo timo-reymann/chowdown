@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Pfannkuchen"
 imagecredit: https://www.flickr.com/photos/37279055@N00/401786380
@@ -21,7 +20,6 @@ directions:
 - Milch, Mehl und Salz langsam dazugeben und glatt rühren
 - Bei Bedarf noch Mehl oder Wasser/Milch zum "Fine-Tuning" dazugeben
 - 1 - 2 Minuten pro Pfannkuchen goldgelb ausbraten
-
 ---
 
 Pfannkuchen-Rezept für ca. 10 Pfannkuchen

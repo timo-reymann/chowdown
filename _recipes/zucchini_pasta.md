@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Zucchini Butter Pasta
 image: butter-zucchini-pasta.jpg

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Chilli"
 image: chilli.jpg
@@ -29,7 +28,6 @@ directions:
 - 20 Minuten kochen lassen
 - Mais und Bohnen dazugeben
 - Nochmal für 20 Minuten kochen
-
 ---
 
 Chilli nach eigenem Rezept. 

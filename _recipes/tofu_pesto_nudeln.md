@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Tofu-Pesto Pasta
 image: tofu-pesto.png

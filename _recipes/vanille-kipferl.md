@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Vanille Kipferl"
 image: vanille-kipferl.jpg
@@ -22,6 +21,5 @@ directions:
 - Auf dem Backblech die Kipferl auslegen
 - Bei 170 Grad ca. 10 Minuten goldbraun backen.
 - Auf dem Blech kalt werden lassen und mit Puderzucker bestäuben
-
 ---
 

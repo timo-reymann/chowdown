@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Schwedische Köttbullar"
 image: koettbullar.jpg

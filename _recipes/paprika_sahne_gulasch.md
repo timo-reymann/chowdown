@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Paprika Sahne Gulasch"
 image: puten-gulasch.jpeg

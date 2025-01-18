@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Nudel-Hackfleisch-Auflauf"
 image: nudel-hackfleisch-auflauf.jpg
@@ -28,7 +27,6 @@ directions:
 - Nocheinmal würzen und mit Nudeln vermengen
 - In Auflaufform geben und überstreuen
 - Bei 200 Grad im Ofen backen lassen bis der Käse zerlaufen ist (ca. 15-20 Minuten)
-
 ---
 
 Wie viele Aufläufe lässt sich dieser super vorkochen.

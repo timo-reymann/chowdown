@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Kepta Duona
 image: kepta-duona.png
@@ -23,7 +22,6 @@ directions:
 - Streifen nochmal in einer Schüssel schwenken das sich Gewürze gut verteilen
 - den Käse kurz erhitzen und mit der Mayonaise vermischen
 - Mit der Käsemayonaise servieren
-
 ---
 
 Kepta Duona, litauisches Knoblauchbrot ist sehr lecker, einfach gemacht und passt perfekt zu Kvass und Bier.

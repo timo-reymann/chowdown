@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Küchel"
 image: kuechel.png
@@ -27,7 +26,6 @@ directions:
 - In einem großen flachen Topf ca. 7cm hoch fett einfüllen und warm werden lassen
 - Die ausgestochenen Teigteile aus dem Ofen nehmen und ziehen
 - Küchl wie in einem "Rondell" ausbacken und fertige herausnehmen und zum abtropfen auf Küchenrolle auslegen
-
 ---
 
 Dieses Rezept ist für mindestens 2 Leute gedacht, am Besten natürlich mehr.

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Lebkuchenmuffins"
 image: lebkuchen-muffin.jpg
@@ -20,7 +19,6 @@ directions:
 - Äpfel in kleine Stücke schneiden und unterheben
 - Muffinformen mit dem Teig befüllen
 - Bei 170 Grad auf Umluft 20 - 25 Minuten backen
-
 ---
 
 Muffins für die Weihnachtszeit.

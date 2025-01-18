@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Lachs mit Spinat-Gemüse"
 image: lachs-spinat-gemuese.jpg

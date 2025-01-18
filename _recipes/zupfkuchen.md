@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Russischer Zupfkuchen"
 image: zupfkuchen.jpg

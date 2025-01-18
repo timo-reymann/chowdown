@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Lebkuchen vom Blech"
 image: lebkuchen-vom-blech.jpg

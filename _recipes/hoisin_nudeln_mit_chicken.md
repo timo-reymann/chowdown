@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Hoisin-Nudeln mit Chicken und Gemüse
 image: hoisin_nudeln_chicken.jpg
@@ -30,7 +29,6 @@ directions:
 - Wokgemuse an die Seite stellen
 - Hühnchen mit Sauce kurz erhitzen und vermengen
 - Nudeln, Hühnchen und Gemüse servieren
-
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Lasagne"
 image: lasagne.jpg
@@ -41,7 +40,6 @@ directions:
 - Aufüllen bis zum oberen Rand der Form
 - Als Topping ganz oben noch Käse und Bechamelsoße verteilen
 - bei 180 Grad Umluft ca. 30 - 40 Minuten im Ofen backen lassen
-
 ---
 
 Lasagne-Rezept auf Basis verschiedener Rezepte und eigener Erfahrungen.

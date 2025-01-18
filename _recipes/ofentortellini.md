@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Ofentortellini"
 image: tortellini.jpg

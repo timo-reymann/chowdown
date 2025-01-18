@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Tortillias mit Hähnchen"
 image: haehnchen-tortillas.jpg
@@ -29,7 +28,6 @@ directions:
 - Streifen in der Pfanne anbraten bis sie gar sind
 - Nach belieben würzen und noch scharf anbraten
 - Alles auf den Tisch stellen und Tortillias rollen
-
 ---
 
 Rezept für Hähnchen-Tortillias. Die Wraps bekommt man bei Rewe & Co, man

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Nudel-Wok-Gemüse
 image: nudel-wok-gemuese.jpg

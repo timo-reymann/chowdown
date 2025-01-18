@@ -25,7 +25,6 @@ directions:
 - Fleisch etwas vorbraten
 - pulverisierte Chips zum Fleisch geben und scharf anbraten
 - mit Tortillia-Dip ablöschen und je nach Bedarf mit Bier verdünnen
-
 ---
 
 Am besten passt Reis dazu.

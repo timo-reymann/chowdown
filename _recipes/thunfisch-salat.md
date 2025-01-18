@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Thunfisch-Salat"
 image: thunfisch-salat.jpg

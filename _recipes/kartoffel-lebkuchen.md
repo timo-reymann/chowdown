@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Kartoffel Lebkuchen"
 image: kartoffel-lebkuchen.jpg
@@ -27,7 +26,6 @@ directions:
 - Verrühren bis der Teig sehr zählflüssig wird
 - Teig mit einem Esslöffel auf die Oblaten oder direkt auf das Blech in Haufen platzieren
 - 20 Minuten bei 160 Grad Umluft im Ofen backen
-
 ---
 
 Diese Lebkuchen sind mal was anderes und total lecker!

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Meatballs
 image: meatballs.jpeg

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Rotweinkuchen"
 image: rotweinkuchen.jpg
@@ -24,7 +23,6 @@ directions:
 - In einer Kastenform 60 Minuten bei 180 Grad backen
 - Kuchen abkühlen lassen
 - Glasur anrühren und in mehreren Schichten auf den Kuchen auftragen
-
 ---
 
 Dieses Rezept habe ich direkt von der 90-jährigen Großmutter eines Freundes aus der Realschulzeit!

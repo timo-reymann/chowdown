@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Hänchen Geschnetzeltes mit Curry-Sahne-Soße"
 image: haehnchengeschnetzeltes.jpg
@@ -26,7 +25,6 @@ directions:
 - Mit Gemüsebrühe ablöschen und aufkochen lassen
 - Sahne dazugeben und köcheln lassen
 - Nach Belieben noch mit Mehl andicken
-
 ---
 
 Rezept für Hähnchen-Geschnetzeltes. Hierzu passt am Besten Reis.

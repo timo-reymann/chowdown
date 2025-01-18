@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Puten-Gulasch mit Mais und Paprika"
 image: puten-gulasch.jpg

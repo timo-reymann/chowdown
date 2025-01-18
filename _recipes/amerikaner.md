@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Amerikaner"
 image: amerikaner.jpg
@@ -27,7 +26,6 @@ directions:
 - Bei 200 Grad Umluft für 14-18 Minuten backen
 - Aus Puderzucker, Rum und Wasser eine Glasur rühren
 - Amerikaner mit einem Pinsel oder dem Messer bestreichen
-
 ---
 
 Ein einfaches und sehr leckeres Rezept für Amerikaner. 

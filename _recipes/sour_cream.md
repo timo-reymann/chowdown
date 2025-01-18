@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Sour Cream"
 image: sour_cream.jpg

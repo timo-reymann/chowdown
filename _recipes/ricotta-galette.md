@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Zucchini-Ricotta Galette"
 image: galette.jpeg

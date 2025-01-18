@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Kirschkuchen"
 image: kirschkuchen.jpg
@@ -34,6 +33,5 @@ directions:
 - Kirschen gleichmäßig verteilen
 - Rest des Teiges auffüllen
 - Im unteren Drittel des Backofens für 50 Minten auf 180 Grad Umluft backen
-
 ---
 

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Hähnchen mit Paprikasoße und Zucchini-Gemüse"
 image: haehnchen-paprikasossse-zucchini.jpg

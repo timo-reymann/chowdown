@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Schoko Crossis"
 image: schoko-crossis.jpg
@@ -18,5 +17,4 @@ directions:
 - Cornflakes zugeben und vorsichtig unterheben
 - Kleine Häufchen mit zwei Teelöffeln auf Alufolie oder Backpapier setzen
 - Fest werden lassen und vom Papier nehmen
-
 ---

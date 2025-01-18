@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Muffins"
 image: muffins.jpg

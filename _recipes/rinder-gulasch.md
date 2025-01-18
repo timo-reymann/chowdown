@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Rinder Gulasch
 image: rinder-gulasch.jpeg
@@ -34,7 +33,6 @@ directions:
 - Lorbeerblätter dazugeben und 2h köcheln lassen
 - Lorbeerblätter entfernen
 - Mit Mehl und Wasser binden
-
 ---
 
 Dazu passt perfekt Kartoffeln, Nudeln oder Knödel.

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Burritos mit Hackfleischfüllung"
 image: burritos.jpg

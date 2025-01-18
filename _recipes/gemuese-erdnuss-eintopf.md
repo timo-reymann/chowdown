@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Gemüse-Erdnuss-Eintopf mit Putenwürfeln
 image: gemuese-erdnuss-eintopf.jpg

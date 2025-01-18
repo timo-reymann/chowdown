@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Paprika-Hack-Pfanne mit Feta"
 image: paprika-hack-pfanne-feta.jpg

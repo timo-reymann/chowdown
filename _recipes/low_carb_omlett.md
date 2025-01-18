@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Low Carb Omlett"
 image: low-carb-omlette.jpg
@@ -23,7 +22,6 @@ directions:
 - Zwiebeln, Petersilie, Salz und Pfeffer unterühren
 - Tomaten oben auflegen
 - anbraten
-
 ---
 
 Das Omlett kann entweder auf einmal als "Big Boy" in die Pfanne gekippt werden.

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Marmorkuchen"
 image: marmorkuchen.jpg
@@ -25,7 +24,6 @@ directions:
 - Den dunklen Teig in der Backform oben gleichmäßig verteilen
 - Mit einer Gabel beide Teige spiralförmig marmorieren
 - Bei 160 Grad Umluft ca. 1h backen
-
 ---
 
 Marmorkuchen ist ein echter Klassiker. Auch wenn eine gute Marmorierung einiges an Übung braucht ;)

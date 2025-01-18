@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Tassen Kirschkuchen"
 image: tassen-kirschkuchen.jpg
@@ -27,7 +26,6 @@ directions:
 - Im Ofen (Mitte, Umluft 180 Grad) ca. 20 Minuten backen
 - Danach für ca. 10 Minuten abkühlen lassen
 - Mit Puderzucker bestäuben und am Besten gleich warm servieren
-
 ---
 
 Dieses Rezept ist für mich eine besondere Kindheitserinnerung, einer meiner ersten Kuchen die ich je gemacht habe.

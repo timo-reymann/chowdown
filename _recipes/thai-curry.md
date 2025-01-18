@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Thai-Curry
 image: thai-curry.jpeg

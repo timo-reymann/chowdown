@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Müsliriegel"
 image: muesli-riegel.jpg
@@ -25,7 +24,6 @@ directions:
 - restliche Zutaten einrühren, und erwärmen bis alles karamelisiert ist
 - warme Masse auf einem Backblech verteilen (ca. 30x30 cm)
 - 10 Minuten in schmale Riegel schneiden
-
 ---
 
 Müsliriegel einfach selbst gemacht wenn es mal was anderes sein soll

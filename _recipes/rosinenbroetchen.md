@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Rosinenbrötchen"
 image: rosinenbroetchen.jpg

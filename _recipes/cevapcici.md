@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Cevapcici"
 image: cevapcici.jpg
@@ -19,7 +18,6 @@ directions:
 - Alle Zutaten gut verkneten
 - In ca. 5cm lange und 1-2 cm dicke Röllchen formen
 - Röllchen anbraten
-
 ---
 
 Bei diesem Rezept handelt es sich um einen Klassiker vom Balkon zu dem am Besten Reis passt.

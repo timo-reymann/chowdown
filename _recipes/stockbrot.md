@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Stockbrot"
 image: stockbrot.jpg
@@ -17,7 +16,6 @@ directions:
 - 5 Stunden gehen lassen
 - Nochmal durchkneten und mehrere Rollen formen
 - Die Teigrollen um Stöcke schlingen und etwa 15 Minuten über dem Feuer garen lassen
-
 ---
 
 Stockbrot ist eine sehr leckere Sache, die jedes Camping besser macht.

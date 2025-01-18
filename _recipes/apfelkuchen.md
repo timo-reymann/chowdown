@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Apfelkuchen"
 image: apfelkuchen.jpg
@@ -31,5 +30,4 @@ directions:
 - Äpfel in den Teig ca. 1/3 eindrücken
 - Bei 180 Grad für ca. 40 Minuten goldbraun backen
 - Nach ca. 20 Minuten Abkühlzeit mit Puderzucker bestreuen
-
 ---

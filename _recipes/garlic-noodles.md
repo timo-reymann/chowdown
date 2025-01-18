@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Garlic Noodles
 image: garlic-noodles.jpeg
@@ -23,7 +22,6 @@ directions:
 - Sojasoße dazugeben und etwas einkochen
 - Nudeln dazugeben und gut durchmengen
 - Parmesam dazugeben und ordentlich unterheben
-
 ---
 
 Als Nudeln eignen sich Bandnudeln, Spaghetti, Tagatelle etc.

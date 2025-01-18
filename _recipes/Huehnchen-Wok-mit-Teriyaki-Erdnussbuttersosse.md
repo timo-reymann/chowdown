@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: Hühnchen-Wok mit Teriyaki-Erdnussbuttersoße
 image: huenhnchen-wok-mit-teriyaki-erdnussbuttersosse.jpg
@@ -33,7 +32,6 @@ directions:
 - Mais dazugeben und noch einmal 1 Minute köcheln lassen
 - mit Gewürzen abschmecken
 - frisch mit Reis servieren
-
 ---
 
 Schnell gemacht, man braucht nur einen Wok, die Zutaten und ca. 30

@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Hackfleischauflauf mit Karotten"
 image: hackfleischauflauf-karotten.jpg

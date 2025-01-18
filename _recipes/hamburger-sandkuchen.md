@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title:  "Hamburger Sandkuchen"
 image: sandkuchen.jpg
