@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Pad Thai"
-image: pad_thai.jpeg
+image: pad-thai.jpeg
 tags: Tofu, Asiatisch
 
 ingredients:
