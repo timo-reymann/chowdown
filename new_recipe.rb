@@ -3,7 +3,6 @@
 filename = "_recipes/#{ARGV[0]}.md"
 
 File.write(filename, "---
-
 layout: recipe
 title: 
 image:
@@ -16,7 +15,6 @@ directions:
 -
 
 ---
-
 
 ")
 
