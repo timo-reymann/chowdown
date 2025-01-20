@@ -10,7 +10,6 @@ ingredients:
 - 2 Knoblauchzehen
 - 1 Aubergine
 - 1 Zucchini
-- 1 Zucchini
 - 4 Strauch-Tomaten
 - 400g gehackte Tomaten
 - 1 TL Kräuter der Provence
