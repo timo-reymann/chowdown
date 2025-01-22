@@ -6,30 +6,30 @@ tags: Mittagessen, Hackfleisch
 
 ingredients:
 - 500g Hackfleisch
-- 200g passierte Tomaten
-- 1 Zwiebel
-- 1 Kidneybohnen oder schwarze Bohnen
-- 1 Dose Mais
-- Tomatenmark
+- 400g passierte Tomaten
+- 200g Chilli-Bohnen
+- 300g Mais
+- 2 TL Tomatenmark
 - Prise Zucker
 - Prise Salz
 - 2 - 3 TL Chillipulver
-- Pfeffer
-- 150ml Wasser
-- Öl zum anbraten
+- 2 TL Chilliflocken
+- 1 TL Pfeffer
+- 1 TL Speiseöl
 
 directions:
-- Öl in die warme Pfanne geben
-- Zwiebeln anbraten
+- Öl und Hackfleisch in eine Pfanne geben und anbraten
+- Hackfleisch gleichmäßig zerkleinen
 - Tomatenmark dazugeben
-- Hackfleisch in die Pfanne geben und anbraten
+- Hackfleisch und Tomatenmark noch einmal gut anbraten und alles gleichmäßig erwärmen
 - Alles in einen Topf umfüllen
-- Passierte Tomaten mit den Gewürzen abschmecken und durchmixen
-- 20 Minuten kochen lassen
-- Mais und Bohnen dazugeben
-- Nochmal für 20 Minuten kochen
+- Passierte Tomaten mit den Gewürzen abschmecken und durchmischen
+- Mais und Bohnen dazugebne
+- ca. 40 Minuten köchlen lassen und gelgentlich rühren
 ---
 
 Chilli nach eigenem Rezept. 
 
-Dazu passt am Besten Kräuter- oder Knoblauchbaguette aus dem Ofen, optional mit Mozarellasticks.
+Dazu passt am Besten Kräuter- oder Knoblauchbaguette aus dem Ofen, optional mit Mozarellasticks. 
+
+Wenn man das ganze ein paar Tage durchziehen lässt, wird es noch mal intensiver im Geschmack, in der Regel ist es aber auch frisch schon sehr lecker
