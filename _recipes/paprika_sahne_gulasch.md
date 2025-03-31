@@ -10,7 +10,6 @@ ingredients:
 - 400ml Fleischbrühe
 - 200ml Sahne
 - 2 Paprika
-- 200ml Sahne
 - 1 TL Paprikapulver
 - Pfeffer
 - Salz
